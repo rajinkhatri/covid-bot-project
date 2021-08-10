@@ -1,0 +1,29 @@
+1. Nepal Korea Friendship Municipality Hospital
+		Address: Madhyapur Thimi 44600
+		Hours: Open 24 hours
+		Phone: 01-6633442
+
+2. Civil Service Hospital
+		Address: Kathmandu
+		Hours: Open 24 hours
+		Phone: 01-4107000
+
+3. Bhaktapur Hosptial
+		Address: Bhaktapur
+		Hours: Open 24 hours
+		Phone: 01-6610798
+
+4. Bharatpur Hosptial
+		Address: Bharatpur, Chitwan
+		Hours: Open 24 hours
+		Phone: 056-527959
+
+5. Sukraraj Tropical and Infectious Disease Hospital
+		Address: Teku, Kathmandu
+		Hours: Open 24 hours
+		Phone: 01-4253396
+
+6. Shree Birendra Hospital
+		Address: Chhauni, Kathmandu, Nepal
+		Hours: Open 24 hours
+		Phone: 977-1-4287600
